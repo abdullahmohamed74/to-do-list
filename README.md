@@ -1,6 +1,6 @@
 # Grocery-bud app
 
-to do list, using react
+to do list, using useState , local storage.
 
 ## Steps
 
